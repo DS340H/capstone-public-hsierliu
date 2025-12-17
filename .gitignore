@@ -1,0 +1,4 @@
+data/full_database.duckdb
+data/initialD.jsonl
+data/data0.csv
+.DS_Store
