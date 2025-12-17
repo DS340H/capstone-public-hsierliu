@@ -1,10 +1,10 @@
 # Analyzing Emotions in #SAHM TikTok Videos
 
-This repository contains datasets and code for a Data Science capstone project, analyzing how emotions in #StayAtHomeMom TikTok videos relate to viewer engagement, and whether relatability changes (moderates) or explains (mediates) this relationship across five parenting stages. This repository was last updated *December 17th, 2025*.
+This repository contains datasets and code for a Data Science capstone project, analyzing how emotions in #StayAtHomeMom TikTok videos relate to viewer engagement, and whether relatability changes (moderates) or explains (mediates) this relationship across five parenting stages. If any questions or concerns arise, please feel free to contact hl108@wellesley.edu. Last updated *December 17th, 2025*.
 
 
 > [!NOTE]
-> To protect privacy, direct identifiers were removed for all datasets in this public repository (e.g., original usernames, post IDs, and free-text descriptions). Creator usernames are replaced with anonymous IDs of the form `anon_####`.
+> To protect the privacy of the #SAHM content creators, direct identifiers were removed for all datasets in this public repository (e.g., usernames, post IDs, video descriptions, date of post). Creator usernames are replaced with anonymous IDs of the form `anon_####`.
 
 
 
@@ -27,7 +27,8 @@ final-project-hsierliu/
 ├── figures/
 │   ├── figure1.png                 # exploratory emotion profiles by age group
 │   └── figure2.png                 # emotion → engagement effects (by age group)
-└── README.md                       # final poster (added to repo root separately)
+├── poster.pdf                      # final poster
+└── README.md                       
 ```
 
 ## Roadmap
